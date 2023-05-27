@@ -1,0 +1,6 @@
+.header-container {
+  display: flex;
+  list-style-type: none;
+  width: 100px;
+  justify-content: space-between;
+}
